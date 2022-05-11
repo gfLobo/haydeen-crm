@@ -18,11 +18,16 @@ Confira uma pequena Wiki sobre o CRM
 </a>
 
 <br/>
+<br/>
+<br/>
 
 ### ⚠ Atenção:
 * Ambos os programas estão em fase beta, logo, afirmo que a existência de bugs ou erros ou insatisfações não estão cobertas por nenhuma política de ressarcimento ou reembolso.
 * Por se tratar de um projeto educacional, o suporte não é disponibilizado em um horário fixo.
 ***
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -42,8 +47,6 @@ Confira uma pequena Wiki sobre o CRM
     </a>
     https://www.youtube.com/watch?v=1_9ZGNpuf1o
     
-<br/>
-<br/>
 <br/>
 
 * Os campos de de pagamento devem respeitar o formato pelo qual foram desenvolvidos.
