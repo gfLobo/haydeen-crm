@@ -21,16 +21,6 @@ Confira uma pequena Wiki sobre o CRM
 <br/>
 <br/>
 
-### ⚠ Atenção:
-* Ambos os programas estão em fase beta, logo, afirmo que a existência de bugs ou erros ou insatisfações não estão cobertas por nenhuma política de ressarcimento ou reembolso.
-* Por se tratar de um projeto educacional, o suporte não é disponibilizado em um horário fixo.
-***
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Instruções iniciais
 * Abra o agendador de tarefas e programe o arquivo **email2.exe** para ser executado sempre ao ligar o computador. Segue um tutorial de como realizar essa operação  ⤵
