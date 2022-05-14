@@ -53,7 +53,9 @@ Confira uma pequena Wiki sobre o CRM
 
     ⚠ *Uma atenção especial ao campo "Data Fim", este não deve conter em nenhuma hipótese divisões com /, -, ou qualquer tipo de simbolo.*
     <img src="https://cdn.discordapp.com/attachments/731929197236322400/973941986845409390/unknown.png">
-
+    
+    <br/>
+    
     ✅ **Formato permitido:** 20281212
 
     🚫 **Formatos ***não*** permitidos:** 2028/12/12  **;**  2028-12-12
