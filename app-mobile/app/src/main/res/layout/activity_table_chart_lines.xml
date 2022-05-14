@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_anchorGravity="center_vertical"
+    tools:context=".ui.main.tables.TableChartLinesActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/sider"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="30dp">
+
+                <LinearLayout
+                    android:id="@+id/fields"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="30dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/FieldJan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/janeiro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldFev"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/fevereiro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldMar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/marco"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldAbr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/abril"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldMai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/maio"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldJun"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/junho"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldJul"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/julho"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldAgo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/agosto"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldSet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/setembro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldOut"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/outubro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldNov"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/novembro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:id="@+id/FieldDez"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="30dp"
+                        android:layout_marginBottom="30dp"
+                        android:fontFamily="@font/varela_round"
+                        android:text="@string/dezembro"
+                        android:textColor="@color/app_bg"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/values"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/ValueJan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueFev"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueMar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueAbr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueMai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueJun"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueJul"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueAgo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueSet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueOut"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueNov"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                    <TextView
+                        android:id="@+id/ValueDez"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="38dp"
+                        android:fontFamily="@font/varela_round"
+                        android:inputType="numberDecimal"
+                        android:text="TextView"
+                        android:textColor="@color/black"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
