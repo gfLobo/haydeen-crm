@@ -52,9 +52,11 @@ Confira uma pequena Wiki sobre o CRM
 * Os campos de de pagamento devem respeitar o formato pelo qual foram desenvolvidos.
 
     ⚠ *Uma atenção especial ao campo "Data Fim", este não deve conter em nenhuma hipótese divisões com /, -, ou qualquer tipo de simbolo.*
-    <img src="https://cdn.discordapp.com/attachments/731929197236322400/973941986845409390/unknown.png">
     
     <br/>
+
+    <img src="https://cdn.discordapp.com/attachments/731929197236322400/973941986845409390/unknown.png">
+    
     
     ✅ **Formato permitido:** 20281212
 
