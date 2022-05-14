@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable-v24/ic_clientred.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/atvcard.xml" value="0.1695" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/background_login.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/bannerphotoadd.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/bdbackline.xml" value="0.141" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/cardmainbg.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/cardpopsttngsprof.xml" value="0.1185" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/cards.xml" value="0.1945" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/evs_account.xml" value="0.1945" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/home_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic__623062.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.141" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_business_24.xml" value="0.1425" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.1395" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_minimize_24.xml" value="0.141" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.141" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2195" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.2195" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_client.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/ic_clients.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/intcard.xml" value="0.1695" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/login_bg_gradient.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/logincard.xml" value="0.1185" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/mainhomecv.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/maininfo.xml" value="0.1425" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/profileellipsegray.xml" value="0.1185" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/round_cv_profile.xml" value="0.1425" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/roundbtnlogin.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/rounded_spicon.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/spinnerlocal.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/splash_bg.xml" value="0.178" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/drawable/testcards.xml" value="0.1345" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-anydpi/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-large/activity_login.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-large/fragment_dash.xml" value="0.176" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-ldpi/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-nodpi/activity_login.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-normal/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-normal/fragment_dash.xml" value="0.152" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-small/activity_home.xml" value="0.6200657894736842" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-small/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-small/activity_login2.xml" value="1.0" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-small/fragment_dash.xml" value="0.152" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-xlarge/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout-xlarge/fragment_dash.xml" value="0.15625" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_create_user_account.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_helper.xml" value="0.176" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_helper_fab.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_login2.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_settings_profile.xml" value="0.264" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_splash_screen.xml" value="0.152" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_table_chart_lines.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_table_chart_progress.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_test.xml" value="0.7140151515151515" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/activity_tips.xml" value="0.152" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/dropdowncustom.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/filialline.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/fragment_dash.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/fragment_home.xml" value="0.75" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/fragment_profile.xml" value="0.136" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/grid_item.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/mesline.xml" value="0.4" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/layout/popuppasswordtodeleteuser.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/mipmap-anydpi-v26/ic_launcher2_round.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/HaydeenCRM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_dropdown_item_1line.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/gugaf/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_2.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.17543859649122806" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

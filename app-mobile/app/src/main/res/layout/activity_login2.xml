@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ic_launcher_background"
+    tools:context=".Login">
+
+
+    <TextView
+        android:id="@+id/Login_SCREEN_TEXT"
+        android:layout_width="200dp"
+        android:layout_height="106dp"
+        android:layout_marginTop="8dp"
+        android:elevation="150dp"
+        android:fontFamily="@font/varela_round"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textSize="70sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.145"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextContrastCheck" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewRoundLogin"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+
+        app:cardElevation="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="40dp"
+            android:paddingTop="60dp"
+            android:paddingEnd="40dp"
+            android:paddingBottom="60dp">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+
+                app:boxCornerRadiusBottomEnd="20dp"
+                app:boxCornerRadiusBottomStart="20dp"
+                app:boxCornerRadiusTopEnd="20dp"
+                app:boxCornerRadiusTopStart="20dp"
+
+                app:boxStrokeColor="@color/app_bg"
+                app:boxStrokeErrorColor="#FF0000"
+                app:boxStrokeWidth="0dp"
+                app:boxStrokeWidthFocused="0dp"
+                tools:ignore="TextContrastCheck">
+
+                <EditText
+                    android:id="@+id/ed_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:autofillHints=""
+
+                    android:fontFamily="@font/varela_round"
+                    android:hint="@string/email"
+                    android:inputType="textEmailAddress"
+                    android:minHeight="48dp"
+                    android:paddingStart="20dp"
+                    android:textColor="@color/black"
+                    tools:ignore="TextContrastCheck,SpeakableTextPresentCheck" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+
+                app:boxCornerRadiusBottomEnd="20dp"
+                app:boxCornerRadiusBottomStart="20dp"
+                app:boxCornerRadiusTopEnd="20dp"
+                app:boxCornerRadiusTopStart="20dp"
+                app:boxStrokeColor="@color/app_bg"
+                app:boxStrokeErrorColor="#FF0000"
+                app:boxStrokeWidth="0dp"
+                app:boxStrokeWidthFocused="0dp"
+                app:passwordToggleEnabled="true"
+                tools:ignore="TextContrastCheck">
+
+                <EditText
+                    android:id="@+id/ed_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="7dp"
+
+                    android:autofillHints=""
+
+                    android:fontFamily="@font/varela_round"
+                    android:hint="@string/password"
+                    android:inputType="textPassword"
+                    android:minHeight="48dp"
+                    android:textColor="@color/black"
+                    tools:ignore="SpeakableTextPresentCheck" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:layout_marginTop="17dp"
+                android:backgroundTint="@color/teal_700"
+                android:fontFamily="@font/varela_round"
+                android:text="@string/entrar"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp"
+                app:icon="@drawable/ic__623062"
+                app:iconSize="40dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.494"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ed_password"
+                app:layout_constraintVertical_bias="0.097"
+                tools:ignore="TextContrastCheck,DuplicateSpeakableTextCheck" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/createNewAccount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:elevation="50dp"
+                    android:fontFamily="@font/varela_round"
+                    android:text="@string/ed_criar_conta"
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_700"
+                    android:textSize="15sp"
+                    android:background="?attr/selectableItemBackground"
+
+                    app:layout_constraintHorizontal_bias="0.837"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_login"
+                    app:layout_constraintVertical_bias="0.25"
+                    tools:ignore="TextContrastCheck" />
+
+                <TextView
+                    android:id="@+id/forgotPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:elevation="50dp"
+                    android:fontFamily="@font/varela_round"
+                    android:text="@string/ed_esqueci_senha"
+                    android:background="?attr/selectableItemBackground"
+
+                    android:textAlignment="center"
+                    android:textColor="@color/teal_700"
+                    android:textSize="15sp"
+                    app:layout_constraintHorizontal_bias="0.18"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_login"
+                    app:layout_constraintVertical_bias="0.248"
+                    tools:ignore="TextContrastCheck" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

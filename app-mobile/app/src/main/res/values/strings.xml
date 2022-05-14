@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haydeen CRM</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="ed_criar_conta">Criar nova conta</string>
+    <string name="ed_esqueci_senha">Esqueci minha senha</string>
+
+    <string name="logo">logo Haydeen</string>
+    <string name="janeiro">JAN</string>
+    <string name="fevereiro">FEV</string>
+    <string name="marco">MAR</string>
+    <string name="abril">ABR</string>
+    <string name="maio">MAI</string>
+    <string name="junho">JUN</string>
+    <string name="julho">JUL</string>
+    <string name="agosto">AGO</string>
+    <string name="setembro">SET</string>
+    <string name="outubro">OUT</string>
+    <string name="novembro">NOV</string>
+    <string name="dezembro">DEZ</string>
+
+
+    <string name="title_activity_home">Home</string>
+    <string name="tab_text_1">📊 Dashs</string>
+    <string name="tab_text_2">👔 Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="faturamento">Faturamento</string>
+</resources>
