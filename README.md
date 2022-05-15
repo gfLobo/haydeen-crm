@@ -45,8 +45,10 @@ Confira uma pequena Wiki sobre o CRM
     
     <br/>
 
-    <img src="https://cdn.discordapp.com/attachments/731929197236322400/973941986845409390/unknown.png">
+    <img src="./images/fatD.png">
     
+    <br/>
+
     
     ✅ **Formato permitido:** 20281212
 
