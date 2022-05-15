@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "363780358728",
-    "firebase_url": "https://crm-vapel-default-rtdb.firebaseio.com",
-    "project_id": "crm-vapel",
-    "storage_bucket": "crm-vapel.appspot.com"
+    "project_number": "yourprojectnumber",
+    "firebase_url": "YOURURL",
+    "project_id": "your-crm-link",
+    "storage_bucket": "your-crm-link.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:363780358728:android:63ba97232b2864f0b9ce7d",
+        "mobilesdk_app_id": "yourmobilesdkid",
         "android_client_info": {
           "package_name": "com.example.haydeencrm"
         }
       },
       "oauth_client": [
         {
-          "client_id": "363780358728-mm7dlsfum5e2fajmj8977uqrecb7bcpd.apps.googleusercontent.com",
+          "client_id": "your-oauth_client",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCxTdFmJ0AHhHObHjDuQqu_PKLlCwNdPtA"
+          "current_key": "yourkey"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "363780358728-mm7dlsfum5e2fajmj8977uqrecb7bcpd.apps.googleusercontent.com",
+              "client_id": "your-client-id",
               "client_type": 3
             }
           ]
