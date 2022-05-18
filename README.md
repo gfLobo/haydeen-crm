@@ -1,5 +1,6 @@
 <h1 align="center"> Haydeen CRM<h1>
 
+    
 <p align="center">
 <a href="mailto:gustavofernandeslobo@gmail.com" >
 <img src="https://user-images.githubusercontent.com/79761328/167745518-0c2d91b7-0e3e-4ab4-b0cb-a6165c0ee605.png"  ></img>
@@ -9,11 +10,14 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1040/1040263.png" width ="5%"></img></a>
 </p>
 
-
-
 <p align="center">
-<img src="./Images/intro.png" >
-</a>
+<img src="./images/Intro.png" >
+</p>
+  
+
+
+
+
 
 ### Informações gerais
 Você pode adquirir uma cotação personalizada deste CRM entrando em contato através deste perfil ou pelo e-mail abaixo.
