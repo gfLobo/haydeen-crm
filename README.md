@@ -46,7 +46,7 @@ Você pode adquirir uma cotação personalizada deste CRM entrando em contato at
 <a href="https://www.youtube.com/watch?v=1_9ZGNpuf1o" 
 rel= "Como utilizar o agendador de Tarefas do Windows" align="center">
 
-![Foo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3rlAiCfMnEg9Kf02Rdy629y6dQfQmvvOJUH_BqRlGDIyt1A3c4UnkaV9uExjUlNG5JI&usqp=CAU)
+<img src="./images/tutorial.png" width="400">
 
 </a>
 
