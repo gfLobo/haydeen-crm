@@ -20,7 +20,7 @@
 
 
 ### Informações gerais
-Você pode adquirir uma cotação personalizada deste CRM entrando em contato através deste perfil ou pelo e-mail abaixo.
+Você pode adquirir uma cotação personalizada deste CRM entrando em contato através deste perfil ou pelo e-mail acima.
 
 
 
